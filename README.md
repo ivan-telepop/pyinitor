@@ -1,6 +1,10 @@
 # pyinitor
-**pyinitor** script that initiates default python project with files and venv 
+**pyinitor** script that initiates default python project with files and venv then opens project in vscode
+---
 
+Howto:
+
+- create script `pyinitor` put these steps to run in it
 
 ```bash
 #!/bin/bash
@@ -60,11 +64,6 @@ code .
 
 ```
 
----
-
-Howto:
-
-- create script `pyinitor` put this steps 
 
 - move it in `sudo mv pyinitor /usr/local/bin/`
   
@@ -83,7 +82,8 @@ requirements.txt
 main.py
 venv/
 ```
-
+---
+simple & comfort !
 
 
 
