@@ -1,7 +1,8 @@
 # pyinitor
 **pyinitor** script that initiates default python project with files and venv then opens project in vscode - `pyinitor 3.12 ~/projects/my_app`
 
-скрипт для инициации Python проекта c дефолтным набором файлов, виртуальным окружением, + открывается в VS Code - `pyinitor 3.12 ~/projects/my_app`
+**pyinitor** скрипт для инициации Python проекта c дефолтным набором файлов, виртуальным окружением, + открывается в VS Code - `pyinitor 3.12 ~/projects/my_app`
+
 ---
 
 Howto:
